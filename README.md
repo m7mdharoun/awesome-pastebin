@@ -93,7 +93,7 @@ There is a google custom search engine to search other these pastebin sites http
 - https://tutpaste.com/ - None
 - https://paste.scratchbook.ch/ - None
 - https://bitbin.it - None
-
+- https://pastes.io
 
 ## Client Side Encryption
 
